@@ -14,7 +14,7 @@ This is a test API for the fmp mobile engineer position.
    ```sh
    npm i
    ```
-3. Enter your API in `config.js`
+3. Start the server
    ```sh
    npm start
    ```
